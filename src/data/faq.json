@@ -1,0 +1,22 @@
+[
+    {
+     "question":"Why Should you invest in SlashRtc?",
+     "answer":"Because it is a good company."
+    },
+    {
+        "question":"Slashrtc offer which service?",
+        "answer":"Slashrtc offers services that are calling dialer,audio bots,chat bots,etc."
+    },
+    {
+        "question":"Which all Technologies does Slash uses in there software?",
+        "answer":"Tech like Nodejs,Mongodb,Javascript,React,Elastic,Redis,Microservices,etc."
+    },
+    {
+        "question":"Sunday Funday",
+        "answer":"Yes"
+    },
+    {
+        "question":"Monday Moan Day",
+        "answer":"False.Correct answer is :-Workday"
+    }
+]
